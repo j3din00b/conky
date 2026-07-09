@@ -146,7 +146,3 @@ Please read [Contributing](https://github.com/brndnmtthws/conky/wiki/Contributin
 
 Conky exists only through the hard work of a collection of volunteers. Please
 consider sponsoring the project's developers if you get value out of Conky.
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/brndnmtthws/conky.svg)](https://starchart.cc/brndnmtthws/conky)
